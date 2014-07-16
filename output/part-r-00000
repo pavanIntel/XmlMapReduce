@@ -1,0 +1,6 @@
+<configuration>
+<property><name>pavan</name><value>222</value></property>
+<property><name>ravi</name><value>22</value></property>
+<property><name>sampath</name><value>333</value></property>
+<property><name>siva</name><value>444</value></property>
+</configuration>
